@@ -19,8 +19,10 @@
 
 ## Стек
 
-**Python:** pandas, NumPy, scikit-learn, matplotlib, Streamlit  
-**Data & BI:** SQL, Excel, Power BI  
+**Python & ML:** Python, pandas, NumPy, scikit-learn, matplotlib  
+**Data:** SQL, PostgreSQL, SQLite, Excel  
+**BI & визуализация:** BI-платформы (Qlik Sense, Power BI, PIX BI), дашборды  
+**Backend & workflows:** FastAPI, Airflow, Docker  
 **Tools:** Git, Jupyter Notebook  
 **Domain:** oil & gas, reservoir engineering, industrial analytics
 
