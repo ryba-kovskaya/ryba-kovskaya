@@ -1,4 +1,4 @@
-# Привет, я Анастасия 🐡
+# Привет, меня зовут Анастасия 🐡
 
 Я разрабатываю прикладные Python-инструменты для анализа данных, автоматизации инженерных расчетов и поддержки принятия решений.
 
@@ -26,6 +26,6 @@
 
 ## In English
 
-Hi, I’m Anastasia, an Applied Python Engineer with a background in oil & gas reservoir engineering, industrial analytics and automation.
+Hi, my name is Anastasia. I am an Applied Python Engineer with a background in oil & gas reservoir engineering, industrial analytics and automation.
 
 I build practical data-driven tools for complex engineering workflows — from unclear business problems and messy data to structured methodology and working applications.
