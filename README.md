@@ -30,4 +30,4 @@
 
 Hi, my name is Anastasia. I am an Applied Python Engineer with a background in oil & gas reservoir engineering, industrial analytics and automation.
 
-I build practical data-driven tools for complex engineering workflows — from unclear business problems and messy data to structured methodology and working applications.
+I build practical data-driven tools for complex engineering workflows - from unclear business problems and messy data to structured methodology and working applications.
